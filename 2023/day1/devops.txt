@@ -1,2 +1,13 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+What is DevOps?
+Devops is the combination of 'devlopment' and 'operations'. Devops is the a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
+Some tools used in Devops are - Git, Docker, Kubernetes, Jenkins, Ansible, CircleCi, Terraform.
+
+
+What is Automation, Scaling, Infrastructure?
+Automation kick starts from the code generation on the developers machine, until the code is pushed to the code and after that to monitor the application and system in the production.
+Scaling means increasing or decreasing of computing resources as per needs.
+Infrastructure refers to the collection of hardware and software needed.
+
+
+Why DevOps is Important?
+Devops is important for faster deployments and easier maintenance of softwares.
